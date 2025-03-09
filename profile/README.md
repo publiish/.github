@@ -2,6 +2,8 @@
 
 **Publiish** empowers users with **data sovereignty** through **decentralized, trustless** storage on the **PantherStorage IPFS Network**. By leveraging **IPFS**, it ensures **censorship-resistant**, immutable, and secure data accessibility - without intermediaries.
 
+![data_sovereignty](https://github.com/user-attachments/assets/4f370568-3dc7-4be6-a5e3-f34a3f582071)
+
 ## Features
 🛡 **Data Sovereignty & Trustlessness** – Full control over your data with no intermediaries.  
 🔒 **Encrypted Private Storage** – Secure, end-to-end encrypted files only accessible by authorized users.  
@@ -69,6 +71,7 @@ We welcome contributions! Feel free to open issues, submit PRs, and help improve
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
+![1x1_In_a_world_where_data_sovereignt_3](https://github.com/user-attachments/assets/c7a5e99e-d68a-42df-88e5-eac8d28c013e)
 
 ### 🔗 Take Control of Your Data - Join the PantherStorage IPFS clusters  
 The future of **data sovereignty** is here. Build, store, and share freely on a **decentralized, trustless network** where your files remain **yours, forever.**  
