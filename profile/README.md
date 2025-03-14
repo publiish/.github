@@ -44,7 +44,7 @@ docker container exec cluster0 ipfs-cluster-ctl peers ls
   - Check logs: `docker logs cluster0`  
 
 ## Contributing
-We welcome contributions! Feel free to open issues, submit PRs, and help improve **Publiish**.
+ - We welcome contributions! Feel free to open issues, submit PRs, and help improve **Publiish**.
 ---
 ![data_sovereignty](https://github.com/user-attachments/assets/d46511b7-7233-4384-acb3-63efe31db1b7)
 
