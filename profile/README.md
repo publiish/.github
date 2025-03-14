@@ -2,6 +2,8 @@
 
 **Publiish** empowers users with **data sovereignty** through **decentralized, trustless** storage on the **PantherStorage IPFS Network**. By leveraging **IPFS**, it ensures **censorship-resistant**, immutable, and secure data accessibility - without intermediaries.
 
+![1x1_In_a_world_where_data_sovereignt_3](https://github.com/user-attachments/assets/c7c85917-f72a-408f-85b2-93decfe200ed)
+
 ### Prerequisites
 Ensure you have **Docker** and **Docker Compose** installed:
 
@@ -43,8 +45,8 @@ docker container exec cluster0 ipfs-cluster-ctl peers ls
 
 ## Contributing
 We welcome contributions! Feel free to open issues, submit PRs, and help improve **Publiish**.
-
 ---
+![data_sovereignty](https://github.com/user-attachments/assets/d46511b7-7233-4384-acb3-63efe31db1b7)
 
 ### 🔗 Take Control of Your Data  
 The future of **data sovereignty** is here. Build, store, and share freely on a **decentralized, trustless network** where your files remain **yours.**  
