@@ -1,4 +1,4 @@
-# Publiish - PantherStorage IPFS Network
+# Publiish
 
 **Publiish** empowers users with **data sovereignty** through **decentralized, trustless** storage on the **PantherStorage IPFS Network**. By leveraging **IPFS**, it ensures **censorship-resistant**, immutable, and secure data accessibility - without intermediaries.
 
