@@ -6,4 +6,4 @@
 - [What's New in UCAN 1.0 - Brooklyn Zelenka (2024)](https://www.youtube.com/watch?v=-uohQzZcwF4)
 - [Brooklyn Zelenka: UCAN, Beehive, Beelay (2025)](https://www.youtube.com/watch?v=TAuDsbnOT2I)
 
-> Source: number 0, https://github.com/ucan-wg
+> Source: number 0, [UCAN Working Group](https://github.com/ucan-wg)
