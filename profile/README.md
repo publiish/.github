@@ -1,3 +1,7 @@
+### BioAI DIDs Sequencer System Architecture
+
+![SystemArchitecture](https://github.com/user-attachments/assets/37e1dc1c-14bd-410d-8e87-9a2e5c51bdfb)
+
 ### Talks
 
 - [Kademlia, Explained (2023)](https://www.youtube.com/watch?v=1QdKhNpsj8M)
